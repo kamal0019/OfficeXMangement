@@ -127,7 +127,7 @@ This project is licensed under the **MIT License**.
 
 ## 💌 Contact
 **Author:** [Kamal Prajapat](https://github.com/kamal0019)  
-📧 Email: kamal@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+📧 Email: prajapatkamal2106@gmail.com  
+
 
 ---
